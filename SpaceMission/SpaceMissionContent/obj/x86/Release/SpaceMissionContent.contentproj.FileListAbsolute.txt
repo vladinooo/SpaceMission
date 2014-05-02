@@ -1,0 +1,4 @@
+E:\02_Documents\2nd year\Programming for 3D\XNA\Project\SpaceMission\SpaceMission\SpaceMissionContent\obj\x86\Release\ResolveAssemblyReference.cache
+E:\02_Documents\2nd year\Programming for 3D\XNA\Project\SpaceMission\SpaceMission\SpaceMissionContent\obj\x86\Release\Audio\GameAudio.xml
+E:\02_Documents\2nd year\Programming for 3D\XNA\Project\01_SpaceMission-final\SpaceMission\SpaceMission\SpaceMissionContent\obj\x86\Release\ResolveAssemblyReference.cache
+E:\02_Documents\2nd year\Programming for 3D\XNA\Project\01_SpaceMission-final\SpaceMission\SpaceMission\SpaceMissionContent\obj\x86\Release\Audio\GameAudio.xml

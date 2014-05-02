@@ -1,0 +1,2 @@
+E:\02_Documents\2nd year\Programming for 3D\XNA\Project\SpaceMission\SpaceMission\SpaceMissionContent\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\02_Documents\2nd year\Programming for 3D\XNA\Project\SpaceMission\SpaceMission\SpaceMissionContent\obj\x86\Debug\Audio\GameAudio.xml

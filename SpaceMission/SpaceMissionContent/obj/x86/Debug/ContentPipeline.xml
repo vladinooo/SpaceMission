@@ -1,0 +1,270 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Framework="Microsoft.Xna.Framework" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Models\ground.x</Source>
+      <Name>Models\ground</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\02_Documents\2nd year\Programming for 3D\XNA\Project\SpaceMission\SpaceMission\SpaceMission\bin\x86\Debug\Content\Models\ground.xnb</Output>
+      <Time>2011-05-04T00:37:20.828125+01:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\ground_0.xml</Key>
+        <Value>2011-05-05T00:41:43.75+01:00</Value>
+      </Dependency>
+      <Request>E:\02_Documents\2nd year\Programming for 3D\XNA\Project\SpaceMission\SpaceMission\SpaceMission\bin\x86\Debug\Content\Models\mars_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\ground.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\ground_0.xml</Output>
+      <Time>2011-05-04T00:37:20.828125+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\spaceship.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\spaceship_0.xml</Output>
+      <Time>2011-04-30T19:52:14.109375+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\spaceship.x</Source>
+      <Name>Models\spaceship</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Parameters>
+        <Data Key="RotationY">180</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>E:\02_Documents\2nd year\Programming for 3D\XNA\Project\SpaceMission\SpaceMission\SpaceMission\bin\x86\Debug\Content\Models\spaceship.xnb</Output>
+      <Time>2011-04-30T19:52:14.109375+01:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\spaceship_0.xml</Key>
+        <Value>2011-04-30T19:52:19.546875+01:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Fonts\StatsFont.spritefont</Source>
+      <Name>Fonts\StatsFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\02_Documents\2nd year\Programming for 3D\XNA\Project\SpaceMission\SpaceMission\SpaceMission\bin\x86\Debug\Content\Fonts\StatsFont.xnb</Output>
+      <Time>2011-05-02T09:38:55.875+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\lifebar1.png</Source>
+      <Name>Textures\lifebar1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\02_Documents\2nd year\Programming for 3D\XNA\Project\SpaceMission\SpaceMission\SpaceMission\bin\x86\Debug\Content\Textures\lifebar1.xnb</Output>
+      <Time>2011-05-02T09:29:02.625+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\lifebar2.png</Source>
+      <Name>Textures\lifebar2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\02_Documents\2nd year\Programming for 3D\XNA\Project\SpaceMission\SpaceMission\SpaceMission\bin\x86\Debug\Content\Textures\lifebar2.xnb</Output>
+      <Time>2011-05-02T09:28:53.5585936+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\lifebar3.png</Source>
+      <Name>Textures\lifebar3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\02_Documents\2nd year\Programming for 3D\XNA\Project\SpaceMission\SpaceMission\SpaceMission\bin\x86\Debug\Content\Textures\lifebar3.xnb</Output>
+      <Time>2011-05-02T09:28:44.7031248+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\lifebar4.png</Source>
+      <Name>Textures\lifebar4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\02_Documents\2nd year\Programming for 3D\XNA\Project\SpaceMission\SpaceMission\SpaceMission\bin\x86\Debug\Content\Textures\lifebar4.xnb</Output>
+      <Time>2011-05-02T09:28:35.7187504+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\lifebar5.png</Source>
+      <Name>Textures\lifebar5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\02_Documents\2nd year\Programming for 3D\XNA\Project\SpaceMission\SpaceMission\SpaceMission\bin\x86\Debug\Content\Textures\lifebar5.xnb</Output>
+      <Time>2011-05-02T09:28:26.3437504+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\uhd.png</Source>
+      <Name>Textures\uhd</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\02_Documents\2nd year\Programming for 3D\XNA\Project\SpaceMission\SpaceMission\SpaceMission\bin\x86\Debug\Content\Textures\uhd.xnb</Output>
+      <Time>2011-05-02T09:31:22.265625+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\astronaut.X</Source>
+      <Name>Models\astronaut</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Parameters>
+        <Data Key="Scale">0.1</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>E:\02_Documents\2nd year\Programming for 3D\XNA\Project\SpaceMission\SpaceMission\SpaceMission\bin\x86\Debug\Content\Models\astronaut.xnb</Output>
+      <Time>2011-05-03T23:24:51.265625+01:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\astronaut_0.xml</Key>
+        <Value>2011-05-03T23:54:56.953125+01:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\star.X</Source>
+      <Name>Models\star</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Parameters>
+        <Data Key="Scale">0.5</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>E:\02_Documents\2nd year\Programming for 3D\XNA\Project\SpaceMission\SpaceMission\SpaceMission\bin\x86\Debug\Content\Models\star.xnb</Output>
+      <Time>2011-05-03T23:32:24.609375+01:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\star_0.xml</Key>
+        <Value>2011-05-03T23:54:57.140625+01:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Fonts\InstructionsFont.spritefont</Source>
+      <Name>Fonts\InstructionsFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\02_Documents\2nd year\Programming for 3D\XNA\Project\SpaceMission\SpaceMission\SpaceMission\bin\x86\Debug\Content\Fonts\InstructionsFont.xnb</Output>
+      <Time>2011-05-02T09:55:11.96875+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\astronaut.X</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\astronaut_0.xml</Output>
+      <Time>2011-05-03T23:24:51.265625+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\star.X</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\star_0.xml</Output>
+      <Time>2011-05-03T23:32:24.609375+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\asteroid.X</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\asteroid_0.xml</Output>
+      <Time>2011-05-04T00:15:57+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\asteroid.X</Source>
+      <Name>Models\asteroid</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\02_Documents\2nd year\Programming for 3D\XNA\Project\SpaceMission\SpaceMission\SpaceMission\bin\x86\Debug\Content\Models\asteroid.xnb</Output>
+      <Time>2011-05-04T00:15:57+01:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\asteroid_0.xml</Key>
+        <Value>2011-05-05T00:41:45.546875+01:00</Value>
+      </Dependency>
+      <Request>E:\02_Documents\2nd year\Programming for 3D\XNA\Project\SpaceMission\SpaceMission\SpaceMission\bin\x86\Debug\Content\Models\asteroid_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Textures\logo.jpg</Source>
+      <Name>Textures\logo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\02_Documents\2nd year\Programming for 3D\XNA\Project\SpaceMission\SpaceMission\SpaceMission\bin\x86\Debug\Content\Textures\logo.xnb</Output>
+      <Time>2011-05-04T23:41:26.0390624+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\mars.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>E:\02_Documents\2nd year\Programming for 3D\XNA\Project\SpaceMission\SpaceMission\SpaceMission\bin\x86\Debug\Content\Models\mars_0.xnb</Output>
+      <Time>2011-05-04T00:23:54.578125+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\asteroid.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>E:\02_Documents\2nd year\Programming for 3D\XNA\Project\SpaceMission\SpaceMission\SpaceMission\bin\x86\Debug\Content\Models\asteroid_0.xnb</Output>
+      <Time>2011-05-04T00:11:30.421875+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>E:\02_Documents\2nd year\Programming for 3D\XNA\Project\SpaceMission\SpaceMission\SpaceMissionContent\</RootDirectory>
+      <LoggerRootDirectory>E:\02_Documents\2nd year\Programming for 3D\XNA\Project\SpaceMission\SpaceMission\SpaceMission\</LoggerRootDirectory>
+      <IntermediateDirectory>E:\02_Documents\2nd year\Programming for 3D\XNA\Project\SpaceMission\SpaceMission\SpaceMissionContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>E:\02_Documents\2nd year\Programming for 3D\XNA\Project\SpaceMission\SpaceMission\SpaceMission\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-03-30T11:23:21.34375+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

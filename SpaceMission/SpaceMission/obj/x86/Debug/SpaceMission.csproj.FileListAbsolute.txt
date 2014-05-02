@@ -1,0 +1,25 @@
+E:\02_Documents\2nd year\Programming for 3D\XNA\Project\SpaceMission\SpaceMission\SpaceMission\bin\x86\Debug\SpaceMission.exe
+E:\02_Documents\2nd year\Programming for 3D\XNA\Project\SpaceMission\SpaceMission\SpaceMission\bin\x86\Debug\SpaceMission.pdb
+E:\02_Documents\2nd year\Programming for 3D\XNA\Project\SpaceMission\SpaceMission\SpaceMission\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\02_Documents\2nd year\Programming for 3D\XNA\Project\SpaceMission\SpaceMission\SpaceMission\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\02_Documents\2nd year\Programming for 3D\XNA\Project\SpaceMission\SpaceMission\SpaceMission\obj\x86\Debug\SpaceMission.exe
+E:\02_Documents\2nd year\Programming for 3D\XNA\Project\SpaceMission\SpaceMission\SpaceMission\obj\x86\Debug\SpaceMission.pdb
+E:\02_Documents\2nd year\Programming for 3D\XNA\Project\SpaceMission\SpaceMission\SpaceMission\bin\x86\Debug\Content\Models\ground.xnb
+E:\02_Documents\2nd year\Programming for 3D\XNA\Project\SpaceMission\SpaceMission\SpaceMission\bin\x86\Debug\Content\Models\spaceship.xnb
+E:\02_Documents\2nd year\Programming for 3D\XNA\Project\SpaceMission\SpaceMission\SpaceMission\bin\x86\Debug\Content\Audio\GameAudio.xgs
+E:\02_Documents\2nd year\Programming for 3D\XNA\Project\SpaceMission\SpaceMission\SpaceMission\bin\x86\Debug\Content\Audio\Wave Bank.xwb
+E:\02_Documents\2nd year\Programming for 3D\XNA\Project\SpaceMission\SpaceMission\SpaceMission\bin\x86\Debug\Content\Audio\Sound Bank.xsb
+E:\02_Documents\2nd year\Programming for 3D\XNA\Project\SpaceMission\SpaceMission\SpaceMission\bin\x86\Debug\Content\Fonts\StatsFont.xnb
+E:\02_Documents\2nd year\Programming for 3D\XNA\Project\SpaceMission\SpaceMission\SpaceMission\bin\x86\Debug\Content\Textures\lifebar1.xnb
+E:\02_Documents\2nd year\Programming for 3D\XNA\Project\SpaceMission\SpaceMission\SpaceMission\bin\x86\Debug\Content\Textures\lifebar2.xnb
+E:\02_Documents\2nd year\Programming for 3D\XNA\Project\SpaceMission\SpaceMission\SpaceMission\bin\x86\Debug\Content\Textures\lifebar3.xnb
+E:\02_Documents\2nd year\Programming for 3D\XNA\Project\SpaceMission\SpaceMission\SpaceMission\bin\x86\Debug\Content\Textures\lifebar4.xnb
+E:\02_Documents\2nd year\Programming for 3D\XNA\Project\SpaceMission\SpaceMission\SpaceMission\bin\x86\Debug\Content\Textures\lifebar5.xnb
+E:\02_Documents\2nd year\Programming for 3D\XNA\Project\SpaceMission\SpaceMission\SpaceMission\bin\x86\Debug\Content\Textures\uhd.xnb
+E:\02_Documents\2nd year\Programming for 3D\XNA\Project\SpaceMission\SpaceMission\SpaceMission\bin\x86\Debug\Content\Models\astronaut.xnb
+E:\02_Documents\2nd year\Programming for 3D\XNA\Project\SpaceMission\SpaceMission\SpaceMission\bin\x86\Debug\Content\Models\star.xnb
+E:\02_Documents\2nd year\Programming for 3D\XNA\Project\SpaceMission\SpaceMission\SpaceMission\bin\x86\Debug\Content\Models\asteroid.xnb
+E:\02_Documents\2nd year\Programming for 3D\XNA\Project\SpaceMission\SpaceMission\SpaceMission\bin\x86\Debug\Content\Fonts\InstructionsFont.xnb
+E:\02_Documents\2nd year\Programming for 3D\XNA\Project\SpaceMission\SpaceMission\SpaceMission\bin\x86\Debug\Content\Textures\logo.xnb
+E:\02_Documents\2nd year\Programming for 3D\XNA\Project\SpaceMission\SpaceMission\SpaceMission\bin\x86\Debug\Content\Models\mars_0.xnb
+E:\02_Documents\2nd year\Programming for 3D\XNA\Project\SpaceMission\SpaceMission\SpaceMission\bin\x86\Debug\Content\Models\asteroid_0.xnb

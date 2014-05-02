@@ -1,0 +1,19 @@
+Content\Textures\uhd.xnb
+Content\Textures\lifebar1.xnb
+Content\Textures\lifebar2.xnb
+Content\Textures\lifebar3.xnb
+Content\Textures\lifebar4.xnb
+Content\Textures\lifebar5.xnb
+Content\Textures\logo.xnb
+Content\Models\spaceship.xnb
+Content\Models\ground.xnb
+Content\Models\astronaut.xnb
+Content\Models\star.xnb
+Content\Models\asteroid.xnb
+Content\Fonts\StatsFont.xnb
+Content\Fonts\InstructionsFont.xnb
+Content\Models\mars_0.xnb
+Content\Models\asteroid_0.xnb
+Content\Audio\GameAudio.xgs
+Content\Audio\Wave Bank.xwb
+Content\Audio\Sound Bank.xsb
